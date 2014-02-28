@@ -1,0 +1,6 @@
+Regression Analysis Project on Homeless Healthcare Access (2013)
+Data from National Survey of Homeless Assistance Providers and Clients
+
+Methods:
+Logistic regression
+Multinomial regression - with ROC curves for model-checking
